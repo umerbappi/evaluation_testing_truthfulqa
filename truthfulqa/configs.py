@@ -5,7 +5,7 @@ ENGINE_MAP = {'neo-small': 'EleutherAI/gpt-neo-125M',
               'uqa-small': 'allenai/unifiedqa-t5-small',
               'uqa-base': 'allenai/unifiedqa-t5-base',
               'uqa-large': 'allenai/unifiedqa-t5-large',
-              'alif: large-traversaal/Alif-1.0-8B-Instruct',
+              'alif': 'large-traversaal/Alif-1.0-8B-Instruct',
               'uqa-3b': 'allenai/unifiedqa-t5-3b'}
 
 # columns
